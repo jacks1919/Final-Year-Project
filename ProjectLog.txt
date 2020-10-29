@@ -1,0 +1,27 @@
+Week of 27/09/20
+	-Installing TensorFlow/Keras for CPU and GPU using CONDA (July, 2020)
+	-Deep Learning with Python, TensorFlow, and Keras tutorial
+	-jeffheaton/t81_558_deep_learning: Applications of Deep Neural Networks
+	-Basic classification: Classify images of clothing
+
+
+Week of 04/10/20
+	-Deep Learning basics with Python, TensorFlow and Keras
+
+
+
+Week of 11/10/20
+	-Installing OpenCV
+	-Deciding what Board to use 
+		-ESP32
+		-Raspberry Pi
+		-UP Specifications – UP Bridge the Gap
+
+
+Week of 18/10/20
+	-Issue with PC motherboard. Switching to Google colab and EireComm
+
+
+Week of 25/10/20
+	-Setting up Google Colab and installing TensorFlow
+	-Creating Git Repository
